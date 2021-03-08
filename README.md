@@ -1,8 +1,8 @@
-# LAW-XIV-2020
-The 14th Linguistic Annotation Workshop
+# LAW-XV-DMR-III-2021
+The Joint 15th Linguistic Annotation and 3rd Designing Meaning Representations Workshop
 
 This is the `master` branch; it contains sources for building the website.
-The [website](https://sigann.github.io/LAW-XIV-2020) itself lives on the `gh-pages` branch.
+The [website](https://sigann.github.io/LAW-XV-2021) itself lives on the `gh-pages` branch.
 To deploy changes:
 
     $ git checkout master
