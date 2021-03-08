@@ -1,4 +1,4 @@
-# LAW-XV-DMR-III-2021
+# LAW-DMR-2021
 The Joint 15th Linguistic Annotation and 3rd Designing Meaning Representations Workshop
 
 This is the `master` branch; it contains sources for building the website.
