@@ -1,0 +1,95 @@
+Workshop Chairs
+=================
+Stefanie Dipper (Ruhr University Bochum)
+Amir Zeldes (Georgetown University)
+
+Publicity and Publications Chair
+================
+Luke Gessler (Georgetown University)
+Adam Roussel (Ruhr University Bochum)
+
+
+Best Paper Committee
+================
+Adam Meyers (New York University)
+Chu-Ren Huang (The Hong Kong Polytechnic University)
+Heike Zinsmeister (University of Hamburg)
+Massimo Poesio (University of Essex)
+
+
+Program Committee
+================
+*Adam Meyers
+*Annemarie Friedrich
+*Antonio Pareja-Lora
+*Bonnie Webber
+Caroline Sporleder
+*Chloé Braud
+Christian Chiarcos
+*Chu-Ren Huang
+*Deniz Zeyrek
+*Djamé Seddah
+Ellen Dodge
+*Els Lefever
+*Emmanuele Chersoni
+*Federico Fancellu
+*Fei Xia
+*Heike Zinsmeister
+*Ines Rehbein
+*Jena D. Hwang
+Jinghang Gu
+Jiri Mirovsky
+*John Lee
+*Jonathan Dunn
+*Kathryn Conger
+*Katrin Tomanek
+*Kemal Oflazer
+*Kilian Evang
+*Kim Gerdes
+Kristen Wright-Bettner
+Lilja Ovrelid
+*Lori Levin
+Maciej Ogrodniczuk
+*Manfred Stede
+Marie-Catherine de Marneffe
+*Massimo Poesio
+*Michael Wiegand
+*Michael Roth
+*Mikel Iruskieta
+Miriam R.L. Petruck
+*Nancy Ide
+*Nathan Schneider
+*Nianwen Xue
+*Nicoletta Calzolari
+*Omri Abend
+*Özlem Çetinoglu
+*Pablo Picasso Feliciano de Faria
+Phillippe Muller
+Rebecca Passonneau
+Reut Tsarfaty
+*Richard Eckart de Castilho
+*Ron Artstein
+*Sameer Pradhan
+*Sandra Kübler
+Simon Ostermann
+%Susan Windisch Brown
+Tim O'Gorman
+Udo Hahn
+
+
+Organizing Committee
+=================
+Stefanie Dipper (Ruhr University Bochum)
+Annemarie Friedrich (Saarland University)
+Chu-Ren Huang (The Hong Kong Polytechnic University)
+Nancy Ide (Vassar College)
+Lori Levin (Carnegie-Mellon University)
+Adam Meyers (New York University)
+Antonio Pareja-Lora (Universidad Complutense de Madrid / ATLAS, UNED)
+Massimo Poesio (University of Essex)
+Sameer Pradhan (Boulder Learning, Inc.)
+Ines Rehbein (Leibniz Science Campus, Institute for German Language and Heidelberg University)
+Manfred Stede (University of Potsdam)
+Katrin Tomanek (OpenTable)
+Fei Xia (University of Washington)
+Heike Zinsmeister (University of Hamburg)
