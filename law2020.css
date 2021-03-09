@@ -31,7 +31,6 @@ table, th, td, img {
     padding-left: 20px;
     padding-top: 20px;
     padding-bottom: 10px;
-    min-width: 3000px;  /* needed to avoid nasty overlapping lines */
 }
 
 #header .title {
