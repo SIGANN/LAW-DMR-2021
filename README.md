@@ -8,7 +8,7 @@ To deploy changes:
     $ git checkout master
     # ...make, commit, and push changes...
     $ python3 build.py deploy
-    $ git checkout gh-pages
+    $ git checkout brandeis
     $ mv deploy/* .
     $ rmdir deploy
     $ git commit -a -m "deploy changes"
