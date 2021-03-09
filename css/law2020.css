@@ -35,9 +35,9 @@ table, th, td, img {
 
 #header .title {
     min-width: 1200px;  /* needed to avoid nasty overlapping lines */
-    min-height: 200px;
+    min-height: 600px;
     font-family: Roboto, Helvetica, Arial, sans-serif;
-    font-size: 32px;
+    font-size: 24px;
     font-weight: bold;
     padding-left: 40px;
     padding-bottom: 5px;
