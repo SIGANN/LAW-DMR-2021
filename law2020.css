@@ -36,7 +36,8 @@ table, th, td, img {
 #header .title {
     min-width: 1200px;  /* needed to avoid nasty overlapping lines */
     font-family: Roboto, Helvetica, Arial, sans-serif;
-    font-size: 24px;
+    line-height: 1.6;
+    font-size: 32px;
     font-weight: bold;
     padding-left: 40px;
     padding-bottom: 5px;
