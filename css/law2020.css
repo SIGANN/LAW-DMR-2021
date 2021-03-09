@@ -31,10 +31,11 @@ table, th, td, img {
     padding-left: 20px;
     padding-top: 20px;
     padding-bottom: 10px;
+    min-width: 3000px;  /* needed to avoid nasty overlapping lines */
 }
 
 #header .title {
-    min-width: 2000px;  /* needed to avoid nasty overlapping lines */
+    min-width: 1200px;  /* needed to avoid nasty overlapping lines */
     font-family: Roboto, Helvetica, Arial, sans-serif;
     font-size: 36px;
     font-weight: bold;
