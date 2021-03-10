@@ -19,62 +19,60 @@ Massimo Poesio (University of Essex)
 
 Program Committee
 ================
-*Adam Meyers
-*Annemarie Friedrich
-*Antonio Pareja-Lora
-*Bonnie Webber
-Caroline Sporleder
-*Chloé Braud
-Christian Chiarcos
-*Chu-Ren Huang
-*Deniz Zeyrek
-*Djamé Seddah
-Ellen Dodge
-*Els Lefever
-*Emmanuele Chersoni
-*Federico Fancellu
-*Fei Xia
-*Heike Zinsmeister
-*Ines Rehbein
-*Jena D. Hwang
-Jinghang Gu
-Jiri Mirovsky
-*John Lee
-*Jonathan Dunn
-*Kathryn Conger
-*Katrin Tomanek
-*Kemal Oflazer
-*Kilian Evang
-*Kim Gerdes
-Kristen Wright-Bettner
-Lilja Ovrelid
-*Lori Levin
-Maciej Ogrodniczuk
-*Manfred Stede
-Marie-Catherine de Marneffe
-*Massimo Poesio
-*Michael Wiegand
-*Michael Roth
-*Mikel Iruskieta
-Miriam R.L. Petruck
-*Nancy Ide
-*Nathan Schneider
-*Nianwen Xue
-*Nicoletta Calzolari
 *Omri Abend
-*Özlem Çetinoglu
-*Pablo Picasso Feliciano de Faria
-Phillippe Muller
-Rebecca Passonneau
-Reut Tsarfaty
-*Richard Eckart de Castilho
 *Ron Artstein
+*Emily Bender
+*Johan Bos
+*Chlo\'{e} Braud
+*\"{O}zlem \,{C}etinoglu
+*Emmanuele Chersoni
+*Nicoletta Calzolari
+*Kathryn Conger
+*William Croft
+*Richard Eckart de Castilho
+*Pablo Picasso Feliciano de Faria
+*Valeria DePaiva
+*Stefanie Dipper
+*Lucia Donatelli
+*Jonathan Dunn
+*Kilian Evang
+*Federico Fancellu
+*Annemarie Friedrich
+*Kim Gerdes
+*Jan Haji\v{c}
+*Daniel Hershcovich
+*Chu-Ren Huang
+*Jena D. Hwang
+*Nancy Ide
+*Mikel Iruskieta
+*Elisabetta Jezek
+*Sandra Kubler
+*John Lee
+*Els Lefever
+*Lori Levin
+*Adam Meyers
+*Sarah Moeller
+*Kemal Oflazer
+*Simon Ostermann
+*Martha Palmer
+*Antonio Pareja-Lora
+*Massimo Poesio
 *Sameer Pradhan
-*Sandra Kübler
-Simon Ostermann
-%Susan Windisch Brown
-Tim O'Gorman
-Udo Hahn
+*Weiguang Qu
+*Ines Rehbein
+*Michael Roth
+*Nathan Schneider
+*Djam\'{e} Seddah
+*Manfred Stede
+*Katrin Tomanek
+*Zdenka Uresova\\
+*Bonnie Webber
+*Michael Wiegand
+*Fei Xia
+* Hongzhi Xu
+*Amir Zeldes
+*Deniz Zeyrek
+*Heike Zinsmeister
 
 
 Organizing Committee
