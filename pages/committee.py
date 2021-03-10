@@ -9,7 +9,7 @@ the <dif> tag and its contents.
 """
 
 
-print('<div id="contents"\n')
+print('<div id="contents">\n')
 print("<h1>Committees</h1>\n")
 print("</p>\n")
 
@@ -31,6 +31,13 @@ for line in open("committee.txt"):
         print("<tr>")
         print('  <td class="p_name">%s</td>' % person)
         print('  <td class="p_affiliation">%s</td>' % affiliation)
+        print("</tr>")
+    elif line.startswith('*'):
+        # for program committee members without organization
+        started = True
+        person = line.strip()
+        print("<tr>")
+        print('  <td class="p_name">%s</td>' % person)
         print("</tr>")
     else:
         # these are lines like "Workshop Chairs"
