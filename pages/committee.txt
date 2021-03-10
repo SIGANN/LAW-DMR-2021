@@ -1,20 +1,7 @@
 Workshop Chairs
 =================
-Stefanie Dipper (Ruhr University Bochum)
-Amir Zeldes (Georgetown University)
-
-Publicity and Publications Chair
-================
-Luke Gessler (Georgetown University)
-Adam Roussel (Ruhr University Bochum)
-
-
-Best Paper Committee
-================
-Adam Meyers (New York University)
-Chu-Ren Huang (The Hong Kong Polytechnic University)
-Heike Zinsmeister (University of Hamburg)
-Massimo Poesio (University of Essex)
+Claire Bonial (US Army Research Lab)
+Nianwen Xue (Brandeis University)
 
 
 Program Committee
