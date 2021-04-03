@@ -5,7 +5,7 @@ This is the `master` branch; it contains sources for building the website.
 The [website](https://sigann.github.io/LAW-XV-2021) itself lives on the `gh-pages` branch.
 To deploy changes:
 
-    $ git checkout master
+    $ git checkout main
     # ...make, commit, and push changes...
     $ python3 build.py deploy
     $ git checkout brandeis
