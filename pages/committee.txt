@@ -1,0 +1,80 @@
+Workshop Chairs
+=================
+Claire Bonial (US Army Research Lab)
+Nianwen Xue (Brandeis University)
+
+
+Program Committee
+================
+*Omri Abend
+*Ron Artstein
+*Emily Bender
+*Johan Bos
+*Chlo\'{e} Braud
+*\"{O}zlem \,{C}etinoglu
+*Emmanuele Chersoni
+*Nicoletta Calzolari
+*Kathryn Conger
+*William Croft
+*Richard Eckart de Castilho
+*Pablo Picasso Feliciano de Faria
+*Valeria DePaiva
+*Stefanie Dipper
+*Lucia Donatelli
+*Jonathan Dunn
+*Kilian Evang
+*Federico Fancellu
+*Annemarie Friedrich
+*Kim Gerdes
+*Jan Haji\v{c}
+*Daniel Hershcovich
+*Chu-Ren Huang
+*Jena D. Hwang
+*Nancy Ide
+*Mikel Iruskieta
+*Elisabetta Jezek
+*Sandra Kubler
+*John Lee
+*Els Lefever
+*Lori Levin
+*Adam Meyers
+*Sarah Moeller
+*Kemal Oflazer
+*Simon Ostermann
+*Martha Palmer
+*Antonio Pareja-Lora
+*Massimo Poesio
+*Sameer Pradhan
+*Weiguang Qu
+*Ines Rehbein
+*Michael Roth
+*Nathan Schneider
+*Djam\'{e} Seddah
+*Manfred Stede
+*Katrin Tomanek
+*Zdenka Uresova\\
+*Bonnie Webber
+*Michael Wiegand
+*Fei Xia
+* Hongzhi Xu
+*Amir Zeldes
+*Deniz Zeyrek
+*Heike Zinsmeister
+
+
+Organizing Committee
+=================
+Stefanie Dipper (Ruhr University Bochum)
+Annemarie Friedrich (Saarland University)
+Chu-Ren Huang (The Hong Kong Polytechnic University)
+Nancy Ide (Vassar College)
+Lori Levin (Carnegie-Mellon University)
+Adam Meyers (New York University)
+Antonio Pareja-Lora (Universidad Complutense de Madrid / ATLAS, UNED)
+Massimo Poesio (University of Essex)
+Sameer Pradhan (Boulder Learning, Inc.)
+Ines Rehbein (Leibniz Science Campus, Institute for German Language and Heidelberg University)
+Manfred Stede (University of Potsdam)
+Katrin Tomanek (OpenTable)
+Fei Xia (University of Washington)
+Heike Zinsmeister (University of Hamburg)
