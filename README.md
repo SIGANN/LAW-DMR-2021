@@ -8,6 +8,7 @@ To deploy changes:
     $ git checkout main
     # ...make, commit, and push changes...
     $ python3 build.py deploy
+    #uncommited directory/file in 'deploy' is visible from all branches
     $ git checkout brandeis
     $ mv deploy/* .
     $ rmdir deploy
