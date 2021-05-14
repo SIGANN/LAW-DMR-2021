@@ -65,7 +65,7 @@ Program Committee
 Organizing Committee
 =================
 Stefanie Dipper (Ruhr University Bochum)
-Annemarie Friedrich (Saarland University)
+Annemarie Friedrich (Bosch Center for Artificial Intelligence)
 Chu-Ren Huang (The Hong Kong Polytechnic University)
 Nancy Ide (Vassar College)
 Lori Levin (Carnegie-Mellon University)
