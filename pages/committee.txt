@@ -8,16 +8,11 @@ Program Committee
 ================
 *Omri Abend
 *Ron Artstein
-*Emily Bender
 *Johan Bos
-*Chlo\'{e} Braud
-*\"{O}zlem \,{C}etinoglu
-*Emmanuele Chersoni
 *Nicoletta Calzolari
+*Emmanuele Chersoni
 *Kathryn Conger
 *William Croft
-*Richard Eckart de Castilho
-*Pablo Picasso Feliciano de Faria
 *Valeria DePaiva
 *Stefanie Dipper
 *Lucia Donatelli
@@ -27,35 +22,28 @@ Program Committee
 *Annemarie Friedrich
 *Kim Gerdes
 *Jan Haji\v{c}
-*Daniel Hershcovich
-*Chu-Ren Huang
 *Jena D. Hwang
 *Nancy Ide
 *Mikel Iruskieta
 *Elisabetta Jezek
 *Sandra Kubler
-*John Lee
-*Els Lefever
 *Lori Levin
 *Adam Meyers
-*Sarah Moeller
 *Kemal Oflazer
 *Simon Ostermann
 *Martha Palmer
 *Antonio Pareja-Lora
 *Massimo Poesio
+*Matt Post
 *Sameer Pradhan
 *Weiguang Qu
 *Ines Rehbein
-*Michael Roth
 *Nathan Schneider
 *Djam\'{e} Seddah
 *Manfred Stede
-*Katrin Tomanek
 *Zdenka Uresova\\
 *Bonnie Webber
 *Michael Wiegand
-*Fei Xia
 * Hongzhi Xu
 *Amir Zeldes
 *Deniz Zeyrek
